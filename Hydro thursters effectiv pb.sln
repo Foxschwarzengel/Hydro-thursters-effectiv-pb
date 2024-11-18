@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hydro thursters effectiv pb", "Hydro thursters effectiv pb\Hydro thursters effectiv pb.csproj", "{B736B93D-8EC1-4531-9711-99B398CB3853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B736B93D-8EC1-4531-9711-99B398CB3853}.Debug|x64.ActiveCfg = Debug|x64
+		{B736B93D-8EC1-4531-9711-99B398CB3853}.Debug|x64.Build.0 = Debug|x64
+		{B736B93D-8EC1-4531-9711-99B398CB3853}.Release|x64.ActiveCfg = Release|x64
+		{B736B93D-8EC1-4531-9711-99B398CB3853}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E44F2033-7F71-4FD5-B555-0D5C7437F7AE}
+	EndGlobalSection
+EndGlobal
